@@ -1,1 +1,1 @@
-# prueba-extrator-OCR
+Prueba para aspirantes del OCR
